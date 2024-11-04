@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackieLin👋 | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=JackieLin2004.readme" /> 
+- 👋 Hi, I’m @JackieLin
 - 👀 I’m interested in chess and badminton.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 😄 Pronouns: Never give up！
