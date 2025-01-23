@@ -1,7 +1,6 @@
 # Through the clear glass, the oranges shine with brilliance.
 
-Hi~, here is JackieLinn ![315BA96E](https://github.com/user-attachments/assets/b8b0375e-91e3-47c8-b9d8-9a280a689838)
-.
+Hi~, here is JackieLinn ![315DD305](https://github.com/user-attachments/assets/03c3db72-ecee-44e2-a002-d6f9934bcc7a)
 
 - 👋 Hi, I’m @JackieLinn
 - 👀 I’m interested in chess and badminton.
