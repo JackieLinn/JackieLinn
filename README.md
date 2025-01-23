@@ -1,3 +1,5 @@
+# Through the clear glass, the oranges shine with brilliance.
+
 - 👋 Hi, I’m @JackieLin
 - 👀 I’m interested in chess and badminton.
 - 🌱 I’m currently learning Artificial Intelligence.
