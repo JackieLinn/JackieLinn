@@ -12,9 +12,9 @@
   <img src="https://profile-counter.glitch.me/JackieLinn/count.svg"/>
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackieLinn&show_icons=true&theme=great-gatsby&hide_border=true&line_height=28&card_width=243)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackieLinn&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=fcc419&text_color=ddd&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
   &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackieLinn&layout=donut&theme=great-gatsby&langs_count=5&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackieLinn&layout=compact&theme=great-gatsby&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![snake](https://raw.githubusercontent.com/JackieLinn/JackieLinn/output/github-contribution-grid-snake.svg)
