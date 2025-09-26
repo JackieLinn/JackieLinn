@@ -33,9 +33,9 @@
 ***
 
 <div align="center">
-  <h3>Visitors</h3>
+  <!-- <h3>Visitors</h3>
   <img src="https://profile-counter.glitch.me/JackieLinn/count.svg"/>
-  <br>
+  <br> -->
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackieLinn&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
   &nbsp;
