@@ -2,10 +2,11 @@
 
 ### Hi~, here is JackieLinn.
 
-- 👋 Hi, I’m @JackieLinn
-- 👀 I’m interested in chess and badminton.
-- 🌱 I’m currently learning Artificial Intelligence.
+- 👋 Hi, I’m @JackieLinn. I am an undergraduate student at Yunnan University and a graduate student at Tianjin University.
+- 👀 I am very interested in music, chess, and badminton.
+- 🌱 I am currently studying artificial intelligence and software engineering.
 - 😄 Pronouns: Always keep faith in the imminent arrival of beautiful things ~
+- 🔭 Research areas: Natural Language Processing, LLM-based Multi-Agent Systems, Federated Learning ~
 
 **Languages**
 <div>
