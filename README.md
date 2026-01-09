@@ -34,6 +34,12 @@
 ***
 
 <div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JackieLinn&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005&rank_icon=percentile" height="1500" alt="Pranesh's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JackieLinn&layout=compact&theme=shadow_blue&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005" height="1500" alt="Top Langs" />
+</div>
+
+<div align="center">
   <!-- <h3>Visitors</h3>
   <img src="https://profile-counter.glitch.me/JackieLinn/count.svg"/>
   <br> -->
