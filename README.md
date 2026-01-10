@@ -1,6 +1,6 @@
 # Through the clear glass, the oranges shine with brilliance.
 
-### Hi~, here is JackieLinn.
+### Hi~, here is JackieLinn. <img src="https://komarev.com/ghpvc/?username=JackieLinn&label=Profile%20views&color=yellow&style=flat" alt="JackieLinn" />
 
 - 👋 Hi, I’m @JackieLinn. I am an undergraduate student at Yunnan University and a graduate student at Tianjin University.
 - 👀 I am very interested in music, chess, and badminton.
