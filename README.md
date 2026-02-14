@@ -41,7 +41,7 @@
 </div>
 
 <!-- <div align="center"> -->
-  [![JackieLinn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JackieLinn&theme=high-contrast	)](https://github.com/JackieLinn/github-readme-activity-graph)
+  [![JackieLinn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JackieLinn&theme=high-contrast)](https://github.com/JackieLinn)
 <!-- </div> -->
 
 ![snake](https://raw.githubusercontent.com/JackieLinn/JackieLinn/output/github-contribution-grid-snake.svg)
