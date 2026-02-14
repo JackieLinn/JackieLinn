@@ -40,4 +40,8 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JackieLinn&layout=compact&theme=shadow_blue&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005" height="1500" alt="Top Langs" />
 </div>
 
+<!-- <div align="center"> -->
+  [![JackieLinn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JackieLinn&theme=high-contrast	)](https://github.com/JackieLinn/github-readme-activity-graph)
+<!-- </div> -->
+
 ![snake](https://raw.githubusercontent.com/JackieLinn/JackieLinn/output/github-contribution-grid-snake.svg)
