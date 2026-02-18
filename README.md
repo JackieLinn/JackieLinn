@@ -34,7 +34,7 @@
 ***
 
 <div align="center">
-    <img src="https://readmestats.999857.xyz/api?username=JackieLinn&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005&rank_icon=percentile&bg_color=00000000&include_all_commits=true" height="1500" alt="JackieLinn's GitHub stats" />
+  <img src="https://readmestats.999857.xyz/api?username=JackieLinn&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005&rank_icon=percentile&bg_color=00000000&include_all_commits=true" height="1500" alt="JackieLinn's GitHub stats" />
   <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=JackieLinn&show_icons=true&theme=shadow_blue&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005&rank_icon=percentile" height="1500" alt="JackieLinn's GitHub stats" /> -->
   &nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JackieLinn&layout=compact&theme=shadow_blue&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243&title_color=fab005&text_color=fff9db&icon_color=fab005" height="1500" alt="Top Langs" />
