@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JackieLinn&theme=high-contrast&hide_border=true&bg_color=00000000&area=true&title_color=fab005&color=ffffff&line=fab005&point=d0ebff" alt="JackieLinn's github activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JackieLinn&theme=high-contrast&hide_border=true&bg_color=00000000&area=true&title_color=fab005&color=ffffff&line=fab005&point=ffffff" alt="JackieLinn's github activity graph" />
 </div>
 
 ![snake](https://raw.githubusercontent.com/JackieLinn/JackieLinn/output/github-contribution-grid-snake.svg)
