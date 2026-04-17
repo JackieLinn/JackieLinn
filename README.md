@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
@@ -25,6 +27,8 @@
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?logo=langgraph&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
 </p>
